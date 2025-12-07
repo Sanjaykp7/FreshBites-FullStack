@@ -8,7 +8,7 @@ public class DataBaseConnection {
 	
 	private static String URL="jdbc:mysql://localhost:3306/online_food_delivery";
 	private static String USERNAME="root";
-	private static String PASSWORD="root";
+	private static String PASSWORD="YOUR_DB_PASSWORD";
 
 	public final static Connection getConnection(){
 		
