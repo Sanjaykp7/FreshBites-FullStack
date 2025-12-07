@@ -90,7 +90,7 @@ com.tap.util.DataBaseConnection.java
 Run on Server → Apache Tomcat 10
 
 5️⃣ Open in Browser
-http://localhost:8080/FreshBites-FullStack/home
+http://localhost:8080/FullStack-Project/home
 
 🎯 Key Learning Outcomes
 Implemented Java Servlet-based MVC architecture
