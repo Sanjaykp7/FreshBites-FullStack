@@ -8,12 +8,12 @@ Backend
 
 Java JEE (Servlets & JSP)
 JDBC (Database Connectivity)
+JSP 
 DAO Design Pattern
 MySQL Database
 Apache Tomcat Server 10
 Frontend
 HTML5, CSS
-JavaScript
 Responsive UI with custom styling
 Font Awesome Icons
 
@@ -90,7 +90,7 @@ com.tap.util.DataBaseConnection.java
 Run on Server → Apache Tomcat 10
 
 5️⃣ Open in Browser
-http://localhost:8080/FullStack-Project/
+http://localhost:8080/FullStack-Project/home
 
 🎯 Key Learning Outcomes
 Implemented Java Servlet-based MVC architecture
